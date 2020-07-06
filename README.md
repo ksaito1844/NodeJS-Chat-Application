@@ -23,8 +23,8 @@ This installation guide is for Windows. But Mac and Linux can follow too for bas
 
 ## Folder Structure for the application
 - /root
--- public (contains all html, css and javascript code)
--- index.js (contains the server-side code)
+    - public (contains all html, css and javascript code)
+    - index.js (contains the server-side code)
 
 ## Setting up the app
 Once you have successfully installed NodeJS. To create the index.js, we are going to use the command
@@ -67,7 +67,7 @@ Firstly, install [Azure App Serive](https://marketplace.visualstudio.com/items?i
 Note:
 The reason for attaching the steps guides is for easy understanding with Microsoft docs and it is maintained by Microsoft making it more trustable.
 
-# Author
+## Author
 - This guide is created by Avichel Verma
 - Main credits goes to Socket.io and Microsoft docs for their exceptionally guides.
 
